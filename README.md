@@ -1,12 +1,12 @@
 ## Moto
-“It’s not about reaching the goal, it’s all about the adventure and the ~~mistakes made~~ lessons learned along the way.”
+It’s not about reaching the goal, it’s all about the adventure and the ~~mistakes made~~ lessons learned along the way. Besides, every mistake is a story waiting to be told.
 
 ## Skills summary
-Current and in progress (slowly improving) skill list:
+🛠️ Currently Building & Improving Skills
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,phpstorm,vscode,git,github,redis,gitlab,mysql)](https://skillicons.dev)
 
-Skills looking to aquire in somewhat near future (6m to a year):
+🚀 Skills I’m Planning to Acquire (6–12 months)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,go,swift)](https://skillicons.dev)
 
