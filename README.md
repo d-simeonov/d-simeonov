@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-simeonov)](https://github.com/d-simeonov/github-readme-stats)
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-simeonov&show_icons=true&theme=radical)](https://github.com/d-simeonov)
 
 Current and in progress (slowly improving) skill list:
 
