@@ -3,9 +3,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-simeonov)](https://github.com/anuraghazra/github-readme-stats)
 
 Current and in progress (slowly improving) skill list:
+
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,phpstorm,vscode,git,github,redis,gitlab,mysql)](https://skillicons.dev)
 
 Skills looking to aquire in somewhat near future (6m to a year):
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,go,swift)](https://skillicons.dev)
 
 <!--
